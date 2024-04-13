@@ -1,0 +1,14 @@
+[2024-04-13 09:05:10,366 ] 21 root - INFO - Data ingestion started! 
+[2024-04-13 09:05:10,367 ] 24 root - INFO - Setting connection with MongoDB 
+[2024-04-13 09:05:10,379 ] 28 root - INFO - Connection done and collection intialised! 
+[2024-04-13 09:05:10,389 ] 31 root - INFO - Data fetched from MongoDB 
+[2024-04-13 09:05:10,400 ] 33 root - INFO - The dataset is:                         _id  ... target_names
+0  66195076f82b49884a6d43d6  ...    malignant
+1  66195076f82b49884a6d43d7  ...    malignant
+2  66195076f82b49884a6d43d8  ...    malignant
+3  66195076f82b49884a6d43d9  ...    malignant
+4  66195076f82b49884a6d43da  ...    malignant
+
+[5 rows x 4 columns] 
+[2024-04-13 09:05:10,413 ] 36 root - INFO - Dataset saved in csv 
+[2024-04-13 09:05:10,414 ] 50 root - INFO - Error occured in Data Ingestion 
