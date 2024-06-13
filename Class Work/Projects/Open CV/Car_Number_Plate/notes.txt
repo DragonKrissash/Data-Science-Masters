@@ -1,0 +1,3 @@
+Haar cascade:
+It is a pre-trained Haar cascade classifier model, specially designed to
+detect russian license plates.
